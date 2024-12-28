@@ -1,6 +1,6 @@
 # Frontend Mentor - News homepage
 
-![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
+my site is live at https://hadyabdelmonem.github.io/news-homepage/
 
 ## Welcome! 👋
 
